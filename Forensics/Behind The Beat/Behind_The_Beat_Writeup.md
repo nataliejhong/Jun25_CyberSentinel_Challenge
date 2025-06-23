@@ -4,4 +4,4 @@
 
 1. Used this online exif tool: https://exif.tools/
 2. Uploaded message.mp3 file
-3. Found flag in comments - flag: C1{metadata_tells_more}
+3. Found flag in "Encoded by" - flag: C1{metadata_tells_more}
